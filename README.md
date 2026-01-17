@@ -66,6 +66,7 @@ Open the file. It works.
 ⛵ Coastal boat license  
 🤿 Scuba diving level 1  
 ⚡ Electrical certification BR-B2V  
+🏗️ CACES R386 1B, 3B (PEMP)  
 🚑 First aid & fire safety  
 
 ---
