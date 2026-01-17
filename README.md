@@ -54,8 +54,8 @@ Open the file. It works.
 **1996 – 1997** — Thaï Radiators · ISO 9001, test lab setup  
 **1994 – 1996** — IBM · Cleanroom production, ion implantation  
 **1992** — ESI Sup'info · Analyst Programmer  
-**1989** — Medicine entrance exam (Nancy) · Admitted 
-**1988** — BAC C . Nancy-Metz
+**1989** — Medicine entrance exam (Nancy) · Admitted  
+**1988** — Baccalauréat C · Nancy-Metz
 
 ---
 
