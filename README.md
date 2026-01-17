@@ -53,7 +53,7 @@ Open the file. It works.
 **1998 – 2003** — SOFIM · UNIX Engineer, high availability (HACMP)  
 **1996 – 1997** — Thaï Radiators · ISO 9001, test lab setup  
 **1994 – 1996** — IBM · Cleanroom production, ion implantation  
-**1993** — Service National Sécurité civie 
+**1993** — Service National Sécurité civie  
 **1992** — ESI Sup'info · Analyst Programmer  
 **1989** — Medicine entrance exam (Nancy) · Admitted  
 **1988** — Baccalauréat C · Nancy-Metz
