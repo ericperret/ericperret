@@ -13,12 +13,12 @@ Zero dependencies. Runs everywhere.
 
 ---
 
-### What I build 
+### What I build
 
 **Signal Processing** — Acoustic localization, TDOA, Doppler tracking, DVB-S transmission chains  
 **Cryptanalysis** — Classical cipher breaking, frequency analysis, dictionary attacks  
 **Structural Engineering** — Seismic simulations, TMD systems, base isolation  
-**Healthcare Tools** — Medical training, triage systems, music therapy applications  
+**Healthcare Tools** — Medical training, triage systems, music therapy applications
 
 ---
 
@@ -34,4 +34,27 @@ Open the file. It works.
 
 ---
 
-<sub>French Guiana 🇬🇫 </sub>
+### Background
+
+**2018 – now** — Ministère de l'Intérieur · Technicien SIC  
+**2003 – 2016** — AZS (founder) · Electronics for defense & security  
+**1998 – 2003** — SOFIM · UNIX Engineer, high availability (HACMP)  
+**1996 – 1997** — Thaï Radiators · ISO 9001, test lab setup  
+**1994 – 1996** — IBM · Cleanroom production, ion implantation  
+**1992** — ESI Sup'info · Analyst Programmer  
+**1989** — Medicine entrance exam (Nancy) · Admitted  
+
+---
+
+### Certifications & Licenses
+
+📻 Ham radio **F1OCM** since 1986  
+✈️ Private pilot training  
+⛵ Coastal boat license  
+🤿 Scuba diving level 1  
+⚡ Electrical certification BR-B2V  
+🚑 First aid & fire safety  
+
+---
+
+<sub>French Guiana 🇬🇫 · eperret@azs.fr</sub>
