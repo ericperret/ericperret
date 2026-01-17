@@ -61,7 +61,7 @@ Open the file. It works.
 
 ### Certifications & Licenses
 
-📻 Ham radio **F1OCM** since 1986 now **FY4AY** 
+📻 Ham radio **F1OCM** since 1986 now **FY4AY**   
 ✈️ Private pilot training  
 ⛵ Coastal boat license  
 🤿 Scuba diving level 1  
