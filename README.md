@@ -47,19 +47,21 @@ Open the file. It works.
 
 ### Background
 
-**2018 – now** — Ministère de l'Intérieur · Technicien SIC  
+**2023 – Now** — Ministère de l'Intérieur · Technicien SIC CS 
+**2018 – 2022** — Ministère de l'Intérieur · Technicien SIC CN  
 **2003 – 2016** — AZS (founder) · Electronics for defense & security  
 **1998 – 2003** — SOFIM · UNIX Engineer, high availability (HACMP)  
 **1996 – 1997** — Thaï Radiators · ISO 9001, test lab setup  
 **1994 – 1996** — IBM · Cleanroom production, ion implantation  
 **1992** — ESI Sup'info · Analyst Programmer  
-**1989** — Medicine entrance exam (Nancy) · Admitted  
+**1989** — Medicine entrance exam (Nancy) · Admitted
+**1988** — BAC C . Nancy-Metz
 
 ---
 
 ### Certifications & Licenses
 
-📻 Ham radio **F1OCM** since 1986  
+📻 Ham radio **F1OCM** since 1986 now **FY4AY** 
 ✈️ Private pilot training  
 ⛵ Coastal boat license  
 🤿 Scuba diving level 1  
@@ -68,4 +70,4 @@ Open the file. It works.
 
 ---
 
-<sub>French Guiana 🇬🇫 · eperret@azs.fr</sub>
+<sub>French Guiana 🇬🇫 </sub>
