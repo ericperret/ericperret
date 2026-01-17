@@ -13,7 +13,7 @@ Zero dependencies. Runs everywhere.
 
 ---
 
-### What I build
+### What I build 
 
 **Signal Processing** — Acoustic localization, TDOA, Doppler tracking, DVB-S transmission chains  
 **Cryptanalysis** — Classical cipher breaking, frequency analysis, dictionary attacks  
@@ -34,4 +34,4 @@ Open the file. It works.
 
 ---
 
-<sub>French Guiana 🇬🇫 • Civil servant • [azs.fr](http://www.azs.fr)</sub>
+<sub>French Guiana 🇬🇫 </sub>
