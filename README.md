@@ -47,7 +47,7 @@ Open the file. It works.
 
 ### Background
 
-**2023 – Now** — Ministère de l'Intérieur · Technicien SIC CS 
+**2023 – Now** — Ministère de l'Intérieur · Technicien SIC CS  
 **2018 – 2022** — Ministère de l'Intérieur · Technicien SIC CN  
 **2003 – 2016** — AZS (founder) · Electronics for defense & security  
 **1998 – 2003** — SOFIM · UNIX Engineer, high availability (HACMP)  
