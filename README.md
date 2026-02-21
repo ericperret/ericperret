@@ -47,8 +47,8 @@ Open the file. It works.
 
 ### Background
 
-**2023 – Now** — Ministère de l'Intérieur · Technicien SIC CS  
-**2018 – 2022** — Ministère de l'Intérieur · Technicien SIC CN  
+**2023 – Now** — Ministère de l'Intérieur · Technicien SIC CS 'Administrateur SIG'
+**2018 – 2022** — Ministère de l'Intérieur · Technicien SIC CN 'Multimedia'  
 **2003 – 2016** — AZS (founder) · Electronics for defense & security  
 **1998 – 2003** — SOFIM · UNIX Engineer, high availability (HACMP)  
 **1996 – 1997** — Thaï Radiators · ISO 9001, test lab setup  
@@ -62,13 +62,14 @@ Open the file. It works.
 
 ### Certifications & Licenses
 
-📻 Ham radio **F1OCM** since 1986 now **FY4AY**   
-✈️ Private pilot training  
-⛵ Coastal boat license  
-🤿 Scuba diving level 1  
-⚡ Electrical certification BR-B2V  
-🏗️ CACES R386 1B, 3B (PEMP)  
-🚑 First aid & fire safety  
+📻 Ham radio F1OCM since 1986 now FY4AY
+✈️ Private pilot training
+⛵ Coastal boat license
+🤿 Scuba diving level 1
+⚡ Electrical certification BR-B2V
+🏗️ CACES R386 1B, 3B (PEMP)
+🚁 Drone BAPD (A1/A3 + A2)
+🚑 First aid & fire safety
 
 ---
 
