@@ -13,6 +13,14 @@ Zero dependencies. Runs everywhere.
 
 ---
 
+### 🚀 APPELS AUX TESTEURS (Besoin de 20 testeurs)
+Je cherche des testeurs pour valider mes applications sur le Play Store.
+1. **Rejoindre le groupe :** [Groupe Google azsfr](https://groups.google.com/g/azsfr)
+2. **Lien de Test :** [Devenir testeur ici](https://play.google.com/apps/testing/TON_PACKAGE_NAME)
+3. **Retour :** Je teste votre app en retour ! Contactez-moi par email ou via une Issue.
+
+---
+
 ### What I build
 
 **Signal Processing** — Acoustic localization, TDOA, Doppler tracking, DVB-S transmission chains  
