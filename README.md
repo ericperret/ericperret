@@ -72,10 +72,10 @@ Open the file. It works.
 📻 Ham radio F1OCM since 1986 now FY4AY
 ✈️ Private pilot training
 ⛵ Coastal boat license
-🤿 Scuba diving level 1
+🤿 Scuba diving level 1ech
 ⚡ Electrical certification BR-B2V
 🏗️ CACES R386 1B, 3B (PEMP)
-🚁 Drone BAPD (A1/A3 + A2)
+🚁 Drone CATS & BAPD (A1/A3 + A2)
 🚑 First aid & fire safety
 
 ---
