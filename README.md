@@ -29,6 +29,21 @@ Self-contained HTML interface with real-time map, **ADS-B** aircraft overlay, **
 
 ---
 
+### 🗄️ NEW — SQL Studio
+
+**SQL Learning tool — embedded full SQL interpreter, embedded DB, all in one HTML file.**  No server. No dependencies. No install.
+
+SELECT · INNER JOIN · LEFT JOIN · CASE WHEN · INSERT · UPDATE · CREATE TABLE · DISTINCT · ORDER BY · LIMIT  
+**Training mode** — 15 progressive exercises across 10 levels. Validated on output, not syntax.  
+Import/export CSV. localStorage persistence. Academic course bubbles per level.
+
+[![SQL Studio](https://img.shields.io/badge/SQL_Studio-learning_tool-66bb6a?style=for-the-badge&logo=github)](https://github.com/ericperret/sql_studio)
+![SQL](https://img.shields.io/badge/SQL-interpreter-4fc3f7?style=flat-square)
+![Training](https://img.shields.io/badge/Training-15_exercises-ffa726?style=flat-square)
+![Zero deps](https://img.shields.io/badge/Zero-dependencies-ef5350?style=flat-square)
+
+---
+
 ### 🚀 APPELS AUX TESTEURS (Besoin de 20 testeurs)
 
 Je cherche des testeurs pour valider mes applications sur le Play Store.
@@ -44,13 +59,15 @@ Je cherche des testeurs pour valider mes applications sur le Play Store.
 **Signal Processing** — Acoustic localization, TDOA, Doppler tracking, DVB-S transmission chains  
 **Cryptanalysis** — Classical cipher breaking, frequency analysis, dictionary attacks  
 **Structural Engineering** — Seismic simulations, TMD systems, base isolation  
-**Healthcare Tools** — Medical training, triage systems, music therapy applications
+**Healthcare Tools** — Medical training, triage systems, music therapy applications  
+**Education** — SQL learning tool, interactive training, browser-based pedagogical environments
 
 ### Live Demos
 
 | Project | Description |
 |---------|-------------|
 | [**DroneRX**](https://github.com/ericperret/DroneRX) | 🚁 Multi-protocol drone detection — FR/ODID/DJI/Parrot — ESP32-S3 + ADS-B |
+| [**sql_studio**](https://github.com/ericperret/sql_studio) | 🗄️ SQL learning tool — embedded interpreter + DB — single HTML, zero deps |
 | [code](https://ericperret.github.io/code/) | Classical cipher cryptanalysis — Vigenère, Beaufort, Caesar, XOR |
 | [photo](https://ericperret.github.io/photo/) | Perspective correction for OCR/AI preprocessing |
 | [Sismic](https://ericperret.github.io/Sismic/) | Seismic building response — TMD, base isolation |
