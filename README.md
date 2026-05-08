@@ -68,14 +68,14 @@ Je cherche des testeurs pour valider mes applications sur le Play Store.
 |---------|-------------|
 | [**DroneRX**](https://github.com/ericperret/DroneRX) | 🚁 Multi-protocol drone detection — FR/ODID/DJI/Parrot — ESP32-S3 + ADS-B |
 | [**sql_studio**](https://github.com/ericperret/sql_studio) | 🗄️ SQL learning tool — embedded interpreter + DB — single HTML, zero deps |
-| [code](https://ericperret.github.io/code/) | Classical cipher cryptanalysis — Vigenère, Beaufort, Caesar, XOR |
-| [photo](https://ericperret.github.io/photo/) | Perspective correction for OCR/AI preprocessing |
-| [Sismic](https://ericperret.github.io/Sismic/) | Seismic building response — TMD, base isolation |
-| [sstv](https://ericperret.github.io/sstv/) | Slow Scan TV encoder/decoder — Martin, Scottie |
-| [quizz](https://ericperret.github.io/quizz/) | Mental health training & pediatric triage |
-| [JPEG2DVB](https://ericperret.github.io/JPEG2DVB/) | DVB-S transmission tutorial — DCT to QPSK |
-| [One-Page-One-Mission](https://ericperret.github.io/One-Page-One-Mission/) | Acoustic drone tracking — TDOA, Kalman, Doppler |
-| [dispersion](https://github.com/ericperret/dispersion) | Simulation de dispersion balistique et gazeuse (CSG/Kourou) · HTML autonome · RK45 · Pasquill-Gifford |
+| [**code**](https://github.com/ericperret/code) | Classical cipher cryptanalysis — Vigenère, Beaufort, Caesar, XOR |
+| [**photo**](https://github.com/ericperret/photo) | Perspective correction for OCR/AI preprocessing |
+| [**Sismic**](https://github.com/ericperret/Sismic) | Seismic building response — TMD, base isolation |
+| [**sstv**](https://github.com/ericperret/sstv) | Slow Scan TV encoder/decoder — Martin, Scottie |
+| [**quizz**](https://github.com/ericperret/quizz) | Mental health training & pediatric triage |
+| [**JPEG2DVB**](https://github.com/ericperret/JPEG2DVB) | DVB-S transmission tutorial — DCT to QPSK |
+| [**One-Page-One-Mission**](https://github.com/ericperret/One-Page-One-Mission) | Acoustic drone tracking — TDOA, Kalman, Doppler |
+| [**dispersion**](https://github.com/ericperret/dispersion) | Simulation de dispersion balistique et gazeuse (CSG/Kourou) · HTML autonome · RK45 · Pasquill-Gifford |
 
 ---
 
