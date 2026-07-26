@@ -20,6 +20,8 @@ Standalone OBD-II diagnostic bridge for ESP32 with embedded web interface. Singl
 
 Supports ISO 15765-4 CAN (11/29-bit) with automatic protocol detection, DTC reading/clearing, live PID decoding, CAN sniffing, driving data logger, onboard clock synchronization, and French translation of 986 OBD-II fault codes. WiFi smartphone interface + USB serial console.
 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 
 ### 🚁  DroneRX V3.4
 
