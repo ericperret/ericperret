@@ -5,11 +5,12 @@
 I design algorithms and simulations. Then I choose the right tool.  
 For universal deployment — PC, tablet, smartphone — the browser is the runtime.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Espressif](https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-Engineering-blue?style=for-the-badge)
+![Embedded](https://img.shields.io/badge/Embedded-ESP32-E7352C?style=for-the-badge)
+![GIS](https://img.shields.io/badge/GIS-Geospatial-2E8B57?style=for-the-badge)
+![Simulation](https://img.shields.io/badge/Simulation-Scientific-orange?style=for-the-badge)
+![Browser](https://img.shields.io/badge/Browser-First-1E90FF?style=for-the-badge)
+![Zero deps](https://img.shields.io/badge/Zero-Dependencies-black?style=for-the-badge)
 
 Zero dependencies. Runs everywhere.
 
