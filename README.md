@@ -14,8 +14,14 @@ For universal deployment — PC, tablet, smartphone — the browser is the runti
 Zero dependencies. Runs everywhere.
 
 ---
+### 🚗 OBD CAN Bridge
 
-### 🚁 NEW — DroneRX V3.4
+Standalone OBD-II diagnostic bridge for ESP32 with embedded web interface. Single .ino, zero dependency, no external libraries.
+
+Supports ISO 15765-4 CAN (11/29-bit) with automatic protocol detection, DTC reading/clearing, live PID decoding, CAN sniffing, driving data logger, onboard clock synchronization, and French translation of 986 OBD-II fault codes. WiFi smartphone interface + USB serial console.
+
+
+### 🚁  DroneRX V3.4
 
 **Multi-protocol drone detection & identification** on M5Stack CoreS3 (ESP32-S3).
 
@@ -29,7 +35,7 @@ Self-contained HTML interface with real-time map, **ADS-B** aircraft overlay, **
 
 ---
 
-### 🗄️ NEW — SQL Studio
+### SQL Studio
 
 **SQL Learning tool — embedded full SQL interpreter, embedded DB, all in one HTML file.**  No server. No dependencies. No install.
 
