@@ -80,7 +80,7 @@ Je cherche des testeurs pour valider mes applications sur le Play Store.
 | Project | Description |
 |---------|-------------|
 | [**DroneRX**](https://github.com/ericperret/DroneRX) | 🚁 Multi-protocol drone detection — FR/ODID/DJI/Parrot — ESP32-S3 + ADS-B |
-| [**obd_can_bridge**](https://github.com/ericperret/obd_can_bridge) | 🚗 OBD-II CAN bridge — diagnostics, CAN sniffing & web interface — ESP32-S3 |
+| [**obd**](https://github.com/ericperret/obd) | 🚗 OBD-II CAN bridge — diagnostics, CAN sniffing & web interface — ESP32-S3 |
 | [**CREST**](https://github.com/ericperret/crest) | Copernicus Raster Elevation Simulation Toolkit · Zero lib · DSM viewer + hydrological flow simulator
 | [**sql_studio**](https://github.com/ericperret/sql_studio) | 🗄️ SQL learning tool — embedded interpreter + DB — single HTML, zero deps |
 | [**code**](https://github.com/ericperret/code) | Classical cipher cryptanalysis — Vigenère, Beaufort, Caesar, XOR |
