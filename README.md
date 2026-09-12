@@ -15,7 +15,7 @@ For universal deployment — PC, tablet, smartphone — the browser is the runti
 Zero dependencies. Runs everywhere.
 
 ---
-### 🚗 OBD CAN Bridge
+### 🚗 OBD CAR - CAN Bridge
 
 Standalone OBD-II diagnostic bridge for ESP32 with embedded web interface. Single .ino, zero dependency, no external libraries.
 
