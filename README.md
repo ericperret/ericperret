@@ -17,7 +17,8 @@ Zero dependencies. Runs everywhere.
 ---
 ### 🚗 OBD CAR - CAN Bridge
 
-Standalone OBD-II diagnostic bridge for ESP32-S3, zero external libraries. MCP2515 driven via raw SPI register access. ISO 15765-4 29-bit, functional (broadcast) addressing. Live Mode 01 PID discovery and decoding, DTC read/clear (Mode 03/07/0A/04), driving data logger with power-loss detection, WiFi web interface with real-time gauges. Validated on a Citroën Nemo 1.3 HDi (Marelli MJD 8F3.F6).
+Standalone OBD-II diagnostic bridge for ESP32-S3, zero external libraries. MCP2515 driven via raw SPI register access. ISO 15765-4 29-bit, functional (broadcast) addressing. Live Mode 01 PID discovery and decoding, DTC read/clear (Mode 03/07/0A/04), driving data logger with power-loss detection, WiFi web interface with real-time gauges. 
+**Validated** on a real Citroën Nemo 1.3 HDi (Marelli MJD 8F3.F6).
 
 ![ESP32-S3](https://img.shields.io/badge/ESP32--S3-XIAO-4fc3f7?style=flat-square)
 ![OBD-II](https://img.shields.io/badge/OBD--II-ISO15765--4-ffa726?style=flat-square)
