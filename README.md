@@ -27,7 +27,7 @@ Standalone OBD-II diagnostic bridge for ESP32-S3, zero external libraries. MCP25
 ![Zero deps](https://img.shields.io/badge/Zero-dependencies-ef5350?style=flat-square)
 
 
-### 🚁  DroneRX V3.4
+### 🚁 DroneRX V3.4
 
 **Multi-protocol drone detection & identification** on M5Stack CoreS3 (ESP32-S3).
 
@@ -41,7 +41,20 @@ Self-contained HTML interface with real-time map, **ADS-B** aircraft overlay, **
 
 ---
 
-### SQL Studio
+### 🏔️ CREST — Relief, Glaciers & Dam Break Simulation
+
+**Browser-based 3D terrain viewer and multi-physics simulator.** Zero server, zero installation, pure HTML/JS.
+
+Client-side processing of Copernicus GLO-30 DEMs. Features a complete paleo-glacier simulation (-30ka to today) with orbital forcing and ice flow (SIA). Includes a 2D Saint-Venant hydrodynamic solver for dam break simulations, **validated against the 1959 Malpasset historical disaster**. Fully parallelized via Web Workers. 
+
+[![CREST](https://img.shields.io/badge/CREST-Simulator-4fc3f7?style=for-the-badge&logo=github)](https://github.com/ericperret/crest)
+![Physics](https://img.shields.io/badge/Physics-Saint--Venant_|_SIA-ffa726?style=flat-square)
+![Web Workers](https://img.shields.io/badge/Web-Workers-26c6da?style=flat-square)
+![Zero deps](https://img.shields.io/badge/Zero-dependencies-ef5350?style=flat-square)
+
+---
+
+### 🗄️ SQL Studio
 
 **SQL Learning tool — embedded full SQL interpreter, embedded DB, all in one HTML file.**  No server. No dependencies. No install.
 
@@ -61,12 +74,14 @@ Import/export CSV. localStorage persistence. Academic course bubbles per level.
 Je cherche des testeurs pour valider mes applications sur le Play Store.
 
 1. **Rejoindre le groupe :** [Groupe Google azsfr](https://groups.google.com/g/azsfr)
+
 2. **Retour :** Je teste votre app en retour ! Contactez-moi par email ou via une Issue.
 
 ---
 
 ### What I build
 
+**Geosciences & Simulation** — Paleo-glacier modeling, 2D hydrodynamic dam breaks (Saint-Venant), Copernicus DEM processing  
 **Drone Detection & Identification** — Multi-protocol WiFi sniffer, ODID beacon TX, ADS-B integration, trajectory prediction  
 **Signal Processing** — Acoustic localization, TDOA, Doppler tracking, DVB-S transmission chains  
 **Cryptanalysis** — Classical cipher breaking, frequency analysis, dictionary attacks  
@@ -80,7 +95,7 @@ Je cherche des testeurs pour valider mes applications sur le Play Store.
 |---------|-------------|
 | [**DroneRX**](https://github.com/ericperret/DroneRX) | 🚁 Multi-protocol drone detection — FR/ODID/DJI/Parrot — ESP32-S3 + ADS-B |
 | [**odb**](https://github.com/ericperret/odb) | 🚗 OBD-II CAN bridge — diagnostics, CAN sniffing & web interface — ESP32-S3 |
-| [**CREST**](https://github.com/ericperret/crest) | Copernicus Raster Elevation Simulation Toolkit · Zero lib · DSM viewer + hydrological flow simulator
+| [**CREST**](https://github.com/ericperret/crest) | 🏔️ 3D DEM viewer, paleo-glacier & dam break simulator (Saint-Venant 2D, Malpasset validated) |
 | [**sql_studio**](https://github.com/ericperret/sql_studio) | 🗄️ SQL learning tool — embedded interpreter + DB — single HTML, zero deps |
 | [**code**](https://github.com/ericperret/code) | Classical cipher cryptanalysis — Vigenère, Beaufort, Caesar, XOR |
 | [**photo**](https://github.com/ericperret/photo) | Perspective correction for OCR/AI preprocessing |
@@ -131,5 +146,3 @@ Open the file. It works.
 ---
 
 <sub>French Guiana 🇬🇫 </sub>
-
-
