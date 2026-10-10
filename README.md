@@ -112,7 +112,7 @@ Je cherche des testeurs pour valider mes applications sur le Play Store.
 | [**DroneRX**](https://github.com/ericperret/DroneRX) | 🚁 Multi-protocol drone detection — FR/ODID/DJI/Parrot — ESP32-S3 + ADS-B |
 | [**odb**](https://github.com/ericperret/odb) | 🚗 OBD-II CAN bridge — diagnostics, CAN sniffing & web interface — ESP32-S3 |
 | [**CREST**](https://github.com/ericperret/crest) | 🏔️ 3D DEM viewer, paleo-glacier & dam break simulator (Saint-Venant 2D, Malpasset validated) |
-| [**cadastre_dxf_inspecteur**](https://github.com/ericperret/cadastre_dxf_inspecteur) | 🗺️ French cadastre DXF-PCI viewer — streets & house numbers, parcel division, DA / GeoJSON export — single HTML, offline |
+| [**cadastre_dxf_inspecteur**](https://github.com/ericperret/Cadastre) | 🗺️ French cadastre DXF-PCI viewer — streets & house numbers, parcel division, DA / GeoJSON export — single HTML, offline |
 | [**sql_studio**](https://github.com/ericperret/sql_studio) | 🗄️ SQL learning tool — embedded interpreter + DB — single HTML, zero deps |
 | [**code**](https://github.com/ericperret/code) | Classical cipher cryptanalysis — Vigenère, Beaufort, Caesar, XOR |
 | [**photo**](https://github.com/ericperret/photo) | Perspective correction for OCR/AI preprocessing |
