@@ -54,6 +54,21 @@ Client-side processing of Copernicus GLO-30 DEMs. Features a complete paleo-glac
 
 ---
 
+### 🗺️ DXF-PCI Inspector — French Cadastre Viewer
+
+**Single-file HTML viewer and field tool for the French cadastral plan (DGFiP PCI, DXF format).** Zero server, zero installation, works offline. Built for land surveyors and land services, ready for emergency and intervention services.
+
+Reads a whole department delivery in the browser, `.tar.bz2` archives decompressed client-side, 34,969 French communes embedded. Parcels and buildings coloured by occupancy, full XDATA record on hover, parcel search by IDU. Street and locality index per commune: click a street to frame it end to end, click a house number to centre on it. Neighbouring sheets on double-click, merged sheets on Ctrl+click, department overview map and commune mini-map. Snapping area and polyline measurement, assisted parcel division at a given area, exports to surveyor DA files, scaled PNG and GeoJSON for QGIS. Inventory checked against the DXF-PCI standard.  
+**Used daily** at the Mission Foncier de Guyane on the 973 delivery.
+
+[![DXF-PCI](https://img.shields.io/badge/DXF--PCI-Inspector-4fc3f7?style=for-the-badge&logo=github)](https://github.com/ericperret/cadastre_dxf_inspecteur)
+![Cadastre](https://img.shields.io/badge/Cadastre-DGFiP_PCI-66bb6a?style=flat-square)
+![Projections](https://img.shields.io/badge/CRS-UTM_22N_|_Lambert--93-ffa726?style=flat-square)
+![Offline](https://img.shields.io/badge/Offline-Browser_only-26c6da?style=flat-square)
+![Zero deps](https://img.shields.io/badge/Zero-dependencies-ef5350?style=flat-square)
+
+---
+
 ### 🗄️ SQL Studio
 
 **SQL Learning tool — embedded full SQL interpreter, embedded DB, all in one HTML file.**  No server. No dependencies. No install.
@@ -82,6 +97,7 @@ Je cherche des testeurs pour valider mes applications sur le Play Store.
 ### What I build
 
 **Geosciences & Simulation** — Paleo-glacier modeling, 2D hydrodynamic dam breaks (Saint-Venant), Copernicus DEM processing  
+**GIS & Cadastre** — DXF-PCI cadastral viewer, street and house-number indexing, parcel division, surveyor exports  
 **Drone Detection & Identification** — Multi-protocol WiFi sniffer, ODID beacon TX, ADS-B integration, trajectory prediction  
 **Signal Processing** — Acoustic localization, TDOA, Doppler tracking, DVB-S transmission chains  
 **Cryptanalysis** — Classical cipher breaking, frequency analysis, dictionary attacks  
@@ -96,6 +112,7 @@ Je cherche des testeurs pour valider mes applications sur le Play Store.
 | [**DroneRX**](https://github.com/ericperret/DroneRX) | 🚁 Multi-protocol drone detection — FR/ODID/DJI/Parrot — ESP32-S3 + ADS-B |
 | [**odb**](https://github.com/ericperret/odb) | 🚗 OBD-II CAN bridge — diagnostics, CAN sniffing & web interface — ESP32-S3 |
 | [**CREST**](https://github.com/ericperret/crest) | 🏔️ 3D DEM viewer, paleo-glacier & dam break simulator (Saint-Venant 2D, Malpasset validated) |
+| [**cadastre_dxf_inspecteur**](https://github.com/ericperret/cadastre_dxf_inspecteur) | 🗺️ French cadastre DXF-PCI viewer — streets & house numbers, parcel division, DA / GeoJSON export — single HTML, offline |
 | [**sql_studio**](https://github.com/ericperret/sql_studio) | 🗄️ SQL learning tool — embedded interpreter + DB — single HTML, zero deps |
 | [**code**](https://github.com/ericperret/code) | Classical cipher cryptanalysis — Vigenère, Beaufort, Caesar, XOR |
 | [**photo**](https://github.com/ericperret/photo) | Perspective correction for OCR/AI preprocessing |
