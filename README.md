@@ -61,7 +61,7 @@ Client-side processing of Copernicus GLO-30 DEMs. Features a complete paleo-glac
 Reads a whole department delivery in the browser, `.tar.bz2` archives decompressed client-side, 34,969 French communes embedded. Parcels and buildings coloured by occupancy, full XDATA record on hover, parcel search by IDU. Street and locality index per commune: click a street to frame it end to end, click a house number to centre on it. Neighbouring sheets on double-click, merged sheets on Ctrl+click, department overview map and commune mini-map. Snapping area and polyline measurement, assisted parcel division at a given area, exports to surveyor DA files, scaled PNG and GeoJSON for QGIS. Inventory checked against the DXF-PCI standard.  
 **Personal project** (own time), inspired by professional land-management work, tested on the French Guiana (973) delivery.
 
-[![DXF-PCI](https://img.shields.io/badge/DXF--PCI-Inspector-4fc3f7?style=for-the-badge&logo=github)](https://github.com/ericperret/cadastre_dxf_inspecteur)
+[![DXF-PCI](https://img.shields.io/badge/DXF--PCI-Inspector-4fc3f7?style=for-the-badge&logo=github)](https://github.com/ericperret/cadastre_dxf)
 ![Cadastre](https://img.shields.io/badge/Cadastre-DGFiP_PCI-66bb6a?style=flat-square)
 ![Projections](https://img.shields.io/badge/CRS-UTM_22N_|_Lambert--93-ffa726?style=flat-square)
 ![Offline](https://img.shields.io/badge/Offline-Browser_only-26c6da?style=flat-square)
